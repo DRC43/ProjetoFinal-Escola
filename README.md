@@ -10,4 +10,8 @@ TOTVS-SC
 <a href="https://drive.google.com/file/d/1-wFbabtS4pJnFNCa7CmB2Z4Dk41sbmTl/view?usp=sharing" title="DOCUMENTAÇÃO">
 DOCUMENTAÇÃO PROJETO ESCOLA DB</a>
 <p align="center">
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+
+ # Autores
+
+| [<img src="https://avatars.githubusercontent.com/u/92703482?v=4" width=115><br><sub>Dener Rodrigo Corrêa</sub>](https://github.com/DRC43) |  [<img src="https://avatars.githubusercontent.com/u/86687733?v=4" width=115><br><sub>Philippe R. Bretas</sub>](https://github.com/prbretas) |  [<img src="https://avatars.githubusercontent.com/u/90099405?v=4" width=115><br><sub>Lucas Eduardo Ferreira</sub>](https://github.com/prbretas) |
+| :---: | :---: | :---: |
